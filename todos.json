@@ -1,0 +1,14 @@
+[
+    {
+        "body": "simplicity as the key concept",
+        "done": true
+    },
+    {
+        "body": "vanilla php implementation",
+        "done": true
+    },
+    {
+        "body": "a bit more contrived example",
+        "done": false
+    }
+]
