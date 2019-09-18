@@ -4,7 +4,7 @@
 | This is incarnation of a TodoAPP in vanilla PHP which works nicely with JS
 | enabled. When JS is disabled, not that nice, yet still fully functional.
 |
-| It is written in this single file in ~150 loc (both PHP & HTML), implements
+| It is written in this single file in ~250 loc (both PHP & HTML), implements
 | crazy-simple routing, repository, POPO & pure JavaScript UX enhancements.
 | It also speaks HTTP as you'd expect, so you GET and POST accordingly.
 |
